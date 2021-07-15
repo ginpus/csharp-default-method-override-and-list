@@ -1,0 +1,16 @@
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\bin\Debug\net5.0\csharp-default-method-override-and-list.exe
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\bin\Debug\net5.0\csharp-default-method-override-and-list.deps.json
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\bin\Debug\net5.0\csharp-default-method-override-and-list.runtimeconfig.json
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\bin\Debug\net5.0\csharp-default-method-override-and-list.runtimeconfig.dev.json
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\bin\Debug\net5.0\csharp-default-method-override-and-list.dll
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\bin\Debug\net5.0\ref\csharp-default-method-override-and-list.dll
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\bin\Debug\net5.0\csharp-default-method-override-and-list.pdb
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\obj\Debug\net5.0\csharp-default-method-override-and-list.csproj.AssemblyReference.cache
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\obj\Debug\net5.0\csharp-default-method-override-and-list.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\obj\Debug\net5.0\csharp-default-method-override-and-list.AssemblyInfoInputs.cache
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\obj\Debug\net5.0\csharp-default-method-override-and-list.AssemblyInfo.cs
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\obj\Debug\net5.0\csharp-default-method-override-and-list.csproj.CoreCompileInputs.cache
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\obj\Debug\net5.0\csharp-default-method-override-and-list.dll
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\obj\Debug\net5.0\ref\csharp-default-method-override-and-list.dll
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\obj\Debug\net5.0\csharp-default-method-override-and-list.pdb
+F:\Desktop\dotNET\C#\7.15\csharp-default-method-override-and-list\csharp-default-method-override-and-list\obj\Debug\net5.0\csharp-default-method-override-and-list.genruntimeconfig.cache
